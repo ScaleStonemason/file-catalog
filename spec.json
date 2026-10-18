@@ -1,0 +1,50 @@
+{
+    "name":  "file-catalog",
+    "logo":  "🗃️",
+    "exe":  "FileCatalog.exe",
+    "desc":  "Free, open-source disk catalog for Windows — index drives and offline media, search anything by name later. 100 MB portable, MIT.",
+    "topics":  [
+                   "disk-catalog",
+                   "file-index",
+                   "offline-drive-search",
+                   "cathy-alternative",
+                   "file-management",
+                   "backup",
+                   "archives",
+                   "windows",
+                   "windows-10",
+                   "windows-11",
+                   "csharp",
+                   "dotnet",
+                   "sqlite",
+                   "search",
+                   "optical-media",
+                   "portable",
+                   "open-source",
+                   "mit-license"
+               ],
+    "features":  [
+                     "✅ **Index any drive or folder** — builds a fast local database of names, sizes and dates, including USB and optical media",
+                     "✅ **Search offline media** — find files on a disconnected external drive without plugging it in",
+                     "✅ **Multi-volume catalogs** — keep several drives in one searchable index with volume labels and icon tags",
+                     "✅ **Search syntax** — filter by extension, size range, date window and wildcard patterns combined",
+                     "✅ **Export catalogs** — CSV, HTML or TXT listings for insurance, audits or sale inventories",
+                     "✅ **Incremental refresh** — rescan only changed folders instead of the entire drive",
+                     "✅ **100 MB self-contained exe** — SQLite bundled, portable, offline, MIT with SHA-256 releases"
+                 ],
+    "compare":  [
+                    "| Feature | **file-catalog** | Cathy | DiskCatalogMaker | WhereIsIt |",
+                    "|---|:---:|:---:|:---:|:---:|",
+                    "| Price | **Free, MIT** | Free | Paid | Discontinued |",
+                    "| Open source | **Yes** | No | No | No |",
+                    "| Incremental rescan | **Yes** | No | Partial | Partial |",
+                    "| Combined search syntax | **Yes** | Basic | Yes | Yes |",
+                    "| HTML and CSV export | **Yes** | Partial | Partial | Yes |",
+                    "| Portable, no install | **Yes, 100 MB** | Zip | Mac only | Installer |"
+                ],
+    "faqQ":  "how to catalog files on external drives and search them offline?",
+    "faqA":  "Hunting for a file across six bare drives means plugging each one in and waiting, often per search. file-catalog snapshots each drive into a local database so you search every archive at once, then plug in only the winner. It is a 100 MB portable exe, MIT, offline with no account.",
+    "s1":  "Dark catalog (#121418, cyan #06B6D4): volume list left (Backup 2TB, Photos Archive), indexed file count right, search field with size and date filters below.",
+    "s2":  "Search results: query IMG_2023 wildcard, 214 hits across two volumes, each row showing volume label and full path trail.",
+    "s3":  "Export view: CSV and HTML preview toggles, insurance inventory template chip, incremental rescan progress on one volume at 42 percent."
+}
